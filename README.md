@@ -99,13 +99,9 @@ I am a passionate Java Full Stack Developer focused on designing and developing 
 
 ---
 
-## 🌱 Currently Learning  
-• Microservices Architecture  
-• System Design  
-• Kubernetes  
-• Advanced Spring Boot  
 
----
+
+
 
 ⭐ Always learning. Always building scalable applications.
 
