@@ -3,8 +3,8 @@
 
 💻 Java Full Stack Developer | Backend Enthusiast | Problem Solver  
 📍 Bangalore, India  
-📧 yourmail@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+📧 manasags57@gmail.com 
+🔗 LinkedIn: https://linkedin.com/in/manasags 
 
 ---
 
