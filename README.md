@@ -1,65 +1,85 @@
 ## Hi there 👋
 # 👋 Hi, I'm Manasa GS  
+🚀 Java Full Stack Developer | ☕ Java Enthusiast | ☁️ Cloud Learner  
 
-💻 Java Full Stack Developer | Backend Enthusiast | Problem Solver  
 📍 Bangalore, India  
-📧 manasags57@gmail.com 
-🔗 LinkedIn: https://linkedin.com/in/manasags 
+📧 Email: manasags57@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/manasa-gs  
 
 ---
 
-## 🚀 About Me  
-I am a passionate Java Full Stack Developer with strong hands-on experience in designing and developing scalable, secure, and high-performance web applications. I enjoy building real-world solutions and continuously learning new technologies to stay industry-ready.
+## 👩‍💻 About Me  
+I am a passionate Java Full Stack Developer focused on designing and developing scalable, secure, and high-performance applications. I enjoy building end-to-end solutions — from backend services and APIs to frontend interfaces, cloud deployment, and DevOps practices.
 
-✔ Strong knowledge of Data Structures and Algorithms  
-✔ Experience in RESTful APIs and Microservices  
-✔ Hands-on with Cloud and DevOps fundamentals  
-✔ Writing clean, scalable, and maintainable code  
-
----
-
-## 🛠 Tech Stack  
-
-### 💡 Programming Languages  
-Java, SQL, JavaScript  
-
-### ⚙ Backend Development  
-Spring, Spring Boot, Hibernate, JPA  
-REST APIs, Microservices Architecture  
-Spring Security, JWT Authentication  
-
-### 🎨 Frontend Development  
-HTML, CSS, JavaScript, React JS, Bootstrap  
-
-### 🗄 Databases  
-MySQL  
-
-### ☁ Cloud & DevOps  
-AWS (EC2, S3, RDS), Git, GitHub  
-CI/CD Basics, Docker (Learning)  
-
-### 🔧 Tools  
-VS Code, Eclipse, Postman, Maven, Git  
+✔ Strong foundation in Data Structures and Algorithms  
+✔ Hands-on experience in RESTful APIs and Microservices  
+✔ Experience in secure and scalable application design  
+✔ Continuous learner with a growth mindset  
 
 ---
 
-## 📌 Featured Projects  
+## 🛠️ Tech Stack  
 
-### 🔹 E-Commerce Web Application  
-• Full-stack application using Spring Boot and React  
-• Authentication, product management, and order system  
-• REST APIs with MySQL database  
-• Secure login with JWT  
+### ⚙️ Backend  
+☕ Java (8, 11, 17)  
+🚀 Spring Boot, Spring MVC, Spring Data JPA  
+🔐 Spring Security, JWT Authentication  
+🌐 REST API Development  
+🧵 Multithreading, Collections, OOP  
+📦 Maven, Gradle  
 
-### 🔹 Employee Management System  
-• CRUD operations using Spring Boot and Hibernate  
-• REST API development  
-• Exception handling and validation  
+### 🎨 Frontend  
+⚛️ React.js (Hooks, Context API)  
+🎨 HTML, CSS, JavaScript, Bootstrap  
+📡 Axios, Fetch  
 
-### 🔹 Banking Application  
-• Secure login and transaction management  
-• Spring Security and JWT  
-• Role-based access control  
+### 🗄️ Database  
+🗄️ MySQL  
+🧩 Hibernate / JPA ORM  
+
+### ☁️ Cloud & DevOps  
+☁️ AWS (EC2, S3, RDS, VPC)  
+🐳 Docker  
+🔄 CI/CD Basics  
+
+### 🛠️ Tools  
+🛠️ IntelliJ IDEA, VS Code  
+🧪 Postman  
+🧭 Git & GitHub  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🎬 Book My Ticket – Movie Ticket Booking System  
+**Tech:** Java, Spring Boot, React JS, MySQL, AWS  
+
+✔ Developed full-stack movie booking platform  
+✔ Built scalable REST APIs  
+✔ Implemented secure authentication & authorization  
+✔ Microservice-oriented backend design  
+✔ Optimized MySQL queries  
+✔ Deployed backend on AWS EC2  
+✔ Added logging, exception handling & unit testing  
+
+---
+
+### 🏥 AI-Driven Virtual Health Consultant  
+**Tech:** Spring Boot, REST APIs, Machine Learning  
+
+✔ Built REST APIs for symptom collection  
+✔ Integrated ML model for disease prediction  
+✔ Designed modular backend architecture  
+✔ Improved performance & data handling  
+
+---
+
+### 📊 Research Excellence Assessment Tool  
+**Tech:** Java, Python  
+
+✔ Analyzed publications, citations & h-index  
+✔ Implemented efficient data processing  
+✔ Generated research performance insights  
 
 ---
 
@@ -69,31 +89,31 @@ VS Code, Eclipse, Postman, Maven, Git
 
 ---
 
+## 🏆 Strengths  
+
+✔ Strong backend development with Java & Spring Boot  
+✔ Hands-on REST API development  
+✔ Skilled in frontend-backend integration  
+✔ Cloud-ready AWS applications  
+✔ Self-driven & quick learner  
+
+---
+
 ## 🌱 Currently Learning  
 • Microservices Architecture  
 • System Design  
-• Docker and Kubernetes  
+• Kubernetes  
 • Advanced Spring Boot  
 
 ---
 
-## 📫 Let's Connect  
-I am open to Software Engineer, Java Developer, and Full Stack Developer roles.  
-Feel free to connect with me for collaboration and opportunities!
+⭐ Always learning. Always building scalable applications.
 
-⭐ Always eager to learn and build impactful software.
 
-<!--
-**MANASA-G-S/MANASA-G-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
